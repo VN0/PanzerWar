@@ -62,6 +62,6 @@ public class illustration : MonoBehaviour {
 ```
 
 ## Contributors
-[Wang [Doreamonsky]](http://vk.com/doreamonsky "Wang [Doreamonsky]")
+[Wang [Doreamonsky]](https://vk.com/id517965608 "Wang [Doreamonsky]")
 
-[Kovalenko Vlad](https://vk.com/iso_slacker_yt "Kovalenko Vlad")
+[Vladimir Leonov](https://vk.com/id517965608 "Vladimir Leonov")
